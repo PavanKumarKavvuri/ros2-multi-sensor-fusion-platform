@@ -20,3 +20,10 @@ Most robotics projects demonstrate algorithms in isolation. This project focuses
 * Pose estimation pipelines planned
 * Sensor fusion (EKF / graph-based) planned
 
+## Documenting Style
+
+- Problem
+- Approach
+- What went wrong
+- Fix / Insight
+- Result
